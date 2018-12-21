@@ -1,0 +1,16 @@
+*.iml
+.idea
+*.bundle/
+vendor/*
+*~
+\.#*
+\#*
+
+*.backup
+integration-reports
+.DS_Store
+
+#Cucumber reports
+/reports/*.html
+/reports/json/*.json
+!/**/.gitkeep
